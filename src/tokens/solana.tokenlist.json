@@ -184619,13 +184619,19 @@
 
   },
   {
-    "chainId": 101,
-    "address": "GXUiSEapYfHJe8oFoWSPPyiLSLYT6Em9iEeXTFxUHyUA",
-    "symbol": "NASDAQ420",
-    "name": "NASDAQ420 (Wormhole)",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/TranscendingAngel/nasdaq42-_token_assets/main/Nasdaq%20Best%20transparent%20logo%20200x200_july_2025.png",
-    "tags": ["community", "wormhole"]
+ {
+  "chainId": 101,
+  "address": "GXUiSEapYfHJe8oFoWSPPyiLSLYT6Em9iEeXTFxUHyUA",
+  "symbol": "NASDAQ420",
+  "name": "NASDAQ420 (Wormhole)",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/TranscendingAngel/nasdaq42-_token_assets/main/Nasdaq%20Best%20transparent%20logo%20200x200_july_2025.png",
+  "tags": ["community", "wormhole"],
+  "extensions": {
+    "website": "https://nasdaq420.io",
+    "coingeckoId": "nasdaq420"
+  }
+}
   }
 ],
 "version": {
